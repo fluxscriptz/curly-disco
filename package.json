@@ -1,11 +1,7 @@
 {
-  "name": "spam-button-bot",
+  "name": "external-bot",
   "version": "1.0.0",
   "main": "bot.js",
-  "scripts": {
-    "start": "node bot.js"
-  },
-  "dependencies": {
-    "discord.js": "^14.18.0"
-  }
+  "scripts": { "start": "node bot.js" },
+  "dependencies": { "discord.js": "^14.18.0" }
 }
